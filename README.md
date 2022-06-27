@@ -1,6 +1,6 @@
 # Filtering Plans Based on Multiple Variables
 
-**See it in action:** https://megalune.com/health-alliance/
+**See it in action:** https://healthalliance.org/plans/small-group
 
 ## Project
 
